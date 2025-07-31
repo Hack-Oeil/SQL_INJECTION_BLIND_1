@@ -7,7 +7,7 @@ Dans ce CTF vous devez vous connecter avec le compte admin, mais vous devrez tro
 
 
 ## Aperçu
-![infos/capture.jpg](infos/capture.jpg)
+![presentation/assets/images/capture.jpgg](presentation/assets/images/capture.jpg)
 
 
 
